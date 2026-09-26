@@ -1,9 +1,7 @@
 # ft_printf
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42" alt="Score 100/100" />
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" alt="Language C" />
-  <img src="https://img.shields.io/badge/Norminette-Passing-brightgreen?style=for-the-badge" alt="Norminette Passing" />
 </p>
 
 ## 📌 About The Project
@@ -109,6 +107,3 @@ The library has been thoroughly verified against standard `printf` edge cases:
 - Strings: empty strings `""`, regular strings, and `NULL` string pointers (`(null)` output).
 - Percent edge cases: single trailing `%`, multiple unescaped percent signs (`%%%%`).
 
-Tested with modern 42 test suites:
-- [Francinette](https://github.com/xicoducosta/francinette)
-- [Tripouille / printfTester](https://github.com/Tripouille/printfTester)
